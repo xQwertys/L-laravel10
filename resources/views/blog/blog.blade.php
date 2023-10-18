@@ -61,40 +61,46 @@
 
         <div class="blog-box">
             <div class="blog-img">
+                <a href="#">
                 <img src="images/blog-1.jpeg" alt="">
+                </a>
             </div>
 
             <div class="blog-text">
                 <span>20 April 2023 / Web Design</span>
                 <a href="#" class="blog-title">what has happend</a>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sapiente at ratione excepturi impedit officiis, non voluptas! Perferendis, quod. Itaque pariatur reiciendis sint similique sapiente nam amet exercitationem eos natus?</p>
-                <a href="">Read More</a>
+                <a href="#">Read More</a>
             </div>
         </div>
 
         <div class="blog-box">
             <div class="blog-img">
+                <a href="#">
                 <img src="images/blog-2.jpeg" alt="">
+                </a>
             </div>
 
             <div class="blog-text">
                 <span>20 April 2023 / Web Design</span>
                 <a href="#" class="blog-title">what has happend</a>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sapiente at ratione excepturi impedit officiis, non voluptas! Perferendis, quod. Itaque pariatur reiciendis sint similique sapiente nam amet exercitationem eos natus?</p>
-                <a href="">Read More</a>
+                <a href="#">Read More</a>
             </div>
         </div>
 
         <div class="blog-box">
             <div class="blog-img">
+                <a href="#">
                 <img src="images/blog-3.jpeg" alt="">
+                </a>
             </div>
 
             <div class="blog-text">
                 <span>20 April 2023 / Web Design</span>
                 <a href="#" class="blog-title">what has happend</a>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sapiente at ratione excepturi impedit officiis, non voluptas! Perferendis, quod. Itaque pariatur reiciendis sint similique sapiente nam amet exercitationem eos natus?</p>
-                <a href="">Read More</a>
+                <a href="#">Read More</a>
             </div>
         </div>
     </div>

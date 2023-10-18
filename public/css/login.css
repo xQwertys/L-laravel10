@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.wrapper{
+    width: 420px;
+    height: 500px;
+    background-color: white;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    padding: 30px 40px;
+    
+}
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+}
+.wrapper .input-email,
+.wrapper  .input-password{
+    width: 100%;
+    height: 60px;
+    margin: 50px 0;
+}
+.wrapper .remember,
+.wrapper .forgot{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.input-email .input-box-email,
+.input-password .input-box-password{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    outline: none;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 40px;
+    font-size: 18px;
+    padding: 20px 45px 20px 20px;
+}
+.input-email .text-email,
+.input-password .text-password{
+    font-size: 20px;
+}
+.forgot .forgot-text{
+    color: black;
+}
+.forgot .forgot-text:hover{
+    color: rgba(0, 0, 0, 0.568);
+    transition: 300ms ease-in-out;
+}
+.tombol-login{
+    background-color: rgba(22, 22, 22, 0.829);
+    border-radius: 8px;
+}
+.tombol-login:hover{
+    background-color: rgba(0, 0, 0, 0.568);
+    transition: 300ms ease-in-out;
+}
+.remember .text-remember-me{
+    font-size: 18px;
+}
+label{
+    display: inline;
+}
